@@ -4,7 +4,7 @@ Debian
 This directory contains files used to package dogecoind/dogecoin-qt
 for Debian-based Linux systems. If you compile dogecoind/dogecoin-qt yourself, there are some useful files here.
 
-## dogecoin: URI support ##
+## dogecoincash: URI support ##
 
 
 dogecoin-qt.desktop  (Gnome / Open Desktop)

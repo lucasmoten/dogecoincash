@@ -140,9 +140,12 @@ CAmount GetDogecoinBlockSubsidy(int nHeight, const Consensus::Params& consensusP
     } else if (nHeight < (6 * consensusParams.nSubsidyHalvingInterval)) {
         // New-style constant rewards for each halving interval
         return (500000 * COIN) >> halvings;
-    } else {
+    } else if (nHeight < 4000000) {
         // Constant inflation
         return 10000 * COIN;
+    } else {
+        // Variable inflation ranging from 5500 to 14500 based on block height
+        return (((nHeight % 10) * 1000) + 5500) * COIN;
     }
 }
 

@@ -1,8 +1,8 @@
 <!--- Remove sections that do not apply -->
 
-This issue tracker is only for technical issues related to Dogecoin Core.
+This issue tracker is only for technical issues related to Dogecoin Cash Core.
 
-For general questions about Dogecoin or wallet recovery please use one of the various communities:
+For general questions about Dogecoin Cash or wallet recovery please use one of the various communities:
 
 * [Dogeducation on reddit](https://www.reddit.com/r/dogeducation/)
 * [Discord](https://discord.com/invite/dogecoin)
@@ -24,7 +24,7 @@ Tell us what happens instead
 ### Screenshots.
 If the issue is related to the GUI, screenshots can be added to this issue via drag & drop.
 
-### What version of Dogecoin Core are you using?
+### What version of Dogecoin Cash Core are you using?
 List the version number/commit ID, and if it is an official binary, self compiled or a distribution package such as PPA.
 
 ### Machine specs:

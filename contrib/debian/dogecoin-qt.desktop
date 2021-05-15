@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Dogecoin Core
-Comment=Connect to the Dogecoin P2P Network
-Comment[de]=Verbinde mit dem Dogecoin peer-to-peer Netzwerk
-Comment[fr]=Dogecoin, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Dogecoin, eşten eşe kriptografik sanal para birimi
+Name=Dogecoin Cash Core
+Comment=Connect to the Dogecoin Cash P2P Network
+Comment[de]=Verbinde mit dem Dogecoin Cash peer-to-peer Netzwerk
+Comment[fr]=Dogecoin Cash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Dogecoin Cash, eşten eşe kriptografik sanal para birimi
 Exec=dogecoin-qt %u
 Terminal=false
 Type=Application
